@@ -1,0 +1,31 @@
+MSZoning	Khu vực
+LotFrontage	mặt tiền
+LotArea		diện tích
+Street		đường
+Alley		ngõ
+LotShape	hình dạng
+Neighborhood	Vùng lân cận
+Condition1	Điều kiện_1
+BldgType	Loại nhà ở
+OverallCond	Đánh giá chung
+YearBuilt	Năm xây dựng
+YearRemodAdd	Thời gian sửa nhà
+TotalBsmtSF	diện tích tầng hầm
+BsmtCond	tình trạng chung của tầng hầm
+Heating		Loại sưởi
+HeatingQC	Chất lượng và tình trạng sưởi ấm
+CentralAir	điều hòa
+BedroomAbvGr	Số phòng ngủ
+KitchenAbvGr	Số lượng nhà bếp
+KitchenQual	Chất lượng nhà bếp
+TotRmsAbvGrd	Tổng số phòng
+Fireplaces	Số lượng lò sưởi
+FireplaceQu	Chất lượng lò sưởi
+GarageType	Vị trí nhà để xe
+GarageCond	Tình trạng nhà để xe
+PoolArea	Diện tích hồ bơi
+PoolQC		Chất lượng hồ bơi
+CaFencebin	Chất lượng hàng rào
+MoSold		Tháng đã bán
+YrSold		Năm bán
+SaleType	Loại bán

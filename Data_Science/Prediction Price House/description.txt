@@ -1,0 +1,80 @@
+SalePrice - giá bán của bất động sản tính bằng đô la. Đây là biến mục tiêu mà bạn đang cố gắng dự đoán.
+    MSSubClass: Lớp xây dựng
+    MSZoning: Phân loại phân vùng chung
+    LotFrontage: mặt tiền
+    LotArea: Kích thước lô tính bằng feet vuông
+    Street: Loại đường vào
+    Alley: Loại ngõ vào
+    LotShape: Hình dạng chung của tài sản
+    LandContour: Độ phẳng của tài sản
+    Utilities: Loại tiện ích có sẵn
+    LotConfig: Cấu hình lô
+    LandSlope: Độ dốc của tài sản
+    Neighborhood: Vùng lân cận thành phố Ames
+    Condition 1: Gần đường chính hoặc đường sắt
+    Condition 2: Gần đường chính hoặc đường sắt (nếu có một giây)
+    BldgType: Loại nhà ở
+    HouseStyle: Phong cách ở
+    OverallQuall: Chất liệu tổng thể và chất lượng hoàn thiện
+    OverallCond: Đánh giá tình trạng chung
+    YearBuilt: Năm xây dựng: Ngày xây dựng ban đầu
+    YearRemodAdd: Ngày sửa sang lại
+    RoofStyle: Loại mái nhà
+    RoofMatl: Vật liệu mái nhà
+    Exterior1st: Lớp phủ bên ngoài ngôi nhà
+    Exterior2nd: Lớp phủ bên ngoài ngôi nhà (nếu nhiều vật liệu)
+    MasVnrType: Loại veneer xây
+    MasVnrArea: Diện tích ván xây tính bằng feet vuông
+    ExterQual: Chất lượng vật liệu ngoại thất
+    ExterCond: Tình trạng hiện tại của vật liệu bên ngoài
+    Foundation: Nền tảng: Loại nền tảng
+    BsmtQual: Chiều cao của tầng hầm
+    BsmtCond: Tình trạng chung của tầng hầm
+    BsmtExposure: Lối đi bộ hoặc tường tầng hầm cấp vườn
+    BsmtFinType1: Chất lượng hoàn thiện khu vực tầng hầm
+    BsmtFinSF1: Loại 1 feet vuông thành phẩm
+    BsmtFinType2: Chất lượng của khu vực hoàn thiện thứ hai (nếu có)
+    BsmtFinSF2: Loại 2 feet vuông thành phẩm
+    BsmtUnfSF: Bộ vuông chưa hoàn thành của diện tích tầng hầm
+    TotalBsmtSF: Tổng diện tích tầng hầm
+    Heating: Hệ thống sưởi: Loại sưởi
+    HeatingQC: Chất lượng và tình trạng sưởi ấm
+    CentralAir: Máy lạnh trung tâm
+    Electrical: Điện: Hệ thống điện
+    1stFlrSF: Bộ vuông tầng một
+    2ndFlrSF: Bộ vuông tầng hai
+    LowQualFinSF: Bộ vuông hoàn thiện chất lượng thấp (tất cả các tầng)
+    GrLivArea: Diện tích sống trên cao (mặt đất) bộ vuông
+    BsmtFullBath: Phòng tắm đầy đủ tầng hầm
+    BsmtHalfBath: Phòng tắm nửa tầng hầm
+    FullBath: Phòng tắm đầy đủ trên lớp
+    HalfBath: Nửa bồn tắm trên lớp
+    Bedroom: Số phòng ngủ trên tầng hầm
+    Kitchen: Số lượng nhà bếp
+    KitchenQual: Chất lượng nhà bếp
+    TotRmsAbvGrd: Tổng số phòng trên hạng (không bao gồm phòng tắm)
+    Functional: Chức năng: Đánh giá chức năng gia đình
+    Fireplaces: Lò sưởi: Số lượng lò sưởi
+    FireplaceQu: Chất lượng lò sưởi
+    GarageType: Vị trí nhà để xe
+    GarageYrBlt: Nhà để xe năm được xây dựng
+    GarageFinish: Hoàn thiện nội thất của nhà để xe
+    GarageCars: Kích thước của gara theo sức chứa của ô tô
+    GarageArea: Kích thước của nhà để xe tính bằng feet vuông
+    GarageQual: Chất lượng nhà để xe
+    GarageCond: Tình trạng nhà để xe
+    PavedDrive: Đường lái xe trải nhựa
+    WoodDeckSF: Diện tích sàn gỗ tính bằng foot vuông
+    OpenPorchSF: Diện tích hiên mở tính bằng feet vuông
+    Enc kínPorch: Diện tích hiên nhà kín tính bằng feet vuông
+    3SsnPorch: Khu vực hiên ba mùa tính bằng feet vuông
+    ScreenPorch: Diện tích hiên màn hình tính bằng feet vuông
+    PoolArea: Diện tích hồ bơi tính bằng foot vuông
+    PoolQC: Chất lượng hồ bơi
+    Fence: Chất lượng hàng rào
+    Tính năng khác: Tính năng khác không được đề cập trong các danh mục khác
+    MiscVal: $ Giá trị của tính năng linh tinh
+    MoSold: Tháng đã bán
+    YrSold: Năm bán
+    SaleType: Loại bán
+    SaleCondition: Điều kiện bán hàng
