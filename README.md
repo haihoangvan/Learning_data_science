@@ -12,6 +12,6 @@ I) Visualization with Python & Machine
 5. Phân tích & Dự đoán giá nhà - Linear_Regression
 
 II) Visualization with Power BI
-- Gồm 3 projcet tạo Dashboard báo cáo tình hình kinh doanh qua các chỉ số KPI
+- Project tạo Dashboard báo cáo tình hình kinh doanh qua các chỉ số KPI
 
  
