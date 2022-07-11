@@ -1,5 +1,6 @@
 # Learning_data_science
-Dự án đã làm :
+Git gồm 2 phần:
+I) Visualization with Python & Machine
 
 - Sử dụng numpy, pandas, matplotlib, seaborn để trực quan dữ liệu.
 - Sử dụng Sklearn dự đoán mô hình 
@@ -9,5 +10,8 @@ Dự án đã làm :
 3. Phân tích & Dự đoán tỉ lệ sống sót của hàng khách trên tàu Titanic = Decision tree
 4. Phân tích & Dự đoán khả năng ung thư vú - Logistic Regression Model
 5. Phân tích & Dự đoán giá nhà - Linear_Regression
+
+II) Visualization with Power BI
+- Gồm 3 projcet tạo Dashboard báo cáo tình hình kinh doanh qua các chỉ số KPI
 
  
